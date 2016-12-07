@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="20845722306203"
+    token="7089254282613987733"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2591" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="285" />
+    <task
+        name="verifier"
+        duration="15" />
+
+    <artifact
+        location="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="20845722306203"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

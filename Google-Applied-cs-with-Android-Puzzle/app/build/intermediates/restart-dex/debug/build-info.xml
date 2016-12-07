@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="19482142854404"
+    token="1079454465747717760"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="5325" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1784" />
+    <task
+        name="verifier"
+        duration="21" />
+
+    <artifact
+        location="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="19482142854404"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

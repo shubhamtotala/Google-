@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_576084cdfb34d1f584c7f82a0a3cea499b6c0c83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_98380954dcbd924f7080c53009790151bf18ecca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_84de6613ffce799d21d55178dbb8dd77500bb85b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="89c4a08663863760b7c9fa573b8b0ff8c60245ca">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_69ffaf062c9336dc3349387d6d26f9af85ce8cbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_d065ecc428ea6ad1f23174ae9079f17b0309adcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_16299ad5c3531d1795f061bc1f01d3e6b6e2330c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c6f49ac195ec3dc0d223d639336c50167ad27255">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_78a3d4a14fa327641d644904aa79fbd429b5747a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_8adc77188b3ae96785e3434142f76588adc5b23d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_9ad5cdf53dc4c9a784f15ecaa8309357b4a3e0a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_f713c3cf8743d856bb09eea7d47e79a650931a64/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Sun Oct 23 17:43:52 IST 2016
+base.0=/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ff1578b9da5ad2968279f425825025b55f2e9145
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1c5ce195e0b3d83a03afb44c6c6f55a646f90231/classes.dex
+base.1=/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1c5ce195e0b3d83a03afb44c6c6f55a646f90231
+file.0=/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ff1578b9da5ad2968279f425825025b55f2e9145/classes.dex

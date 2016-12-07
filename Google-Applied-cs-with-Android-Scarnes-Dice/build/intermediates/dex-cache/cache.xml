@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_98380954dcbd924f7080c53009790151bf18ecca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_7b28abd418888faee9fad83d01370cbc925d1457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_80ae716e0af178366c8432b2d6a428b3973ab8c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_8677ea4a4a8fadbf05d57441e38f56fa534e060c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_3881294fd680a46cadb40cc38837a5de2abb7085/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_60dea6967f4c501c529839358e07400e474e0313/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_b0aca326ac18dcf8784f77f8517368b4697e7f8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9335c93cb0478ffd89026e21b656a88a52b577fc">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ff1578b9da5ad2968279f425825025b55f2e9145/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_45731d8d443bde602de732b111ace3714a4c35f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="231127286fc941440fd2bd75fd323af01ec3a6c3">
+        <dex dex="/home/codegeek/Google/Google-Applied-cs-with-Android-Scarnes-Dice/Google Applied cs with android Scarnes dice /app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1c5ce195e0b3d83a03afb44c6c6f55a646f90231/classes.dex" />
+    </item>
+
+</items>

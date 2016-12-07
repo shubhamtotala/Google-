@@ -1,0 +1,7 @@
+#Sun Oct 23 17:22:06 IST 2016
+base.0=/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_78a3d4a14fa327641d644904aa79fbd429b5747a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_69ffaf062c9336dc3349387d6d26f9af85ce8cbe/classes.dex
+base.1=/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_69ffaf062c9336dc3349387d6d26f9af85ce8cbe
+file.0=/home/codegeek/Google/Google-Applied-cs-with-Android-Puzzle/Google CS with Android Puzzzle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_78a3d4a14fa327641d644904aa79fbd429b5747a/classes.dex
